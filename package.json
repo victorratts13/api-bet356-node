@@ -1,0 +1,41 @@
+{
+  "name": "api-bet365-node",
+  "version": "1.0.2",
+  "description": "Api para Bet 356 (dados de jogos ao-vivo, matchs em tempo real)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorratts13/api-bet356-node.git"
+  },
+  "keywords": [
+    "bet",
+    "bet365",
+    "365",
+    "game",
+    "bets",
+    "send",
+    "bet",
+    "match",
+    "games",
+    "soccer",
+    "inPlay",
+    "in",
+    "Play",
+    "bet",
+    "bet",
+    "365",
+    "inPlay"
+  ],
+  "author": "Victor Ratts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorratts13/api-bet356-node/issues"
+  },
+  "homepage": "https://github.com/victorratts13/api-bet356-node#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
