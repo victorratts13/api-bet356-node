@@ -13,7 +13,7 @@
 ```js
 const bet356 = require('api-bet365-node');
 
-new bet356().in().then((rest) => {
+new bet356().on().then((rest) => {
     console.log(rest)
 });
 
