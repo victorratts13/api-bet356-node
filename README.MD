@@ -13,11 +13,13 @@
 ```js
 const bet356 = require('api-bet365-node');
 
-new bet356().in().then((rest) => {
+var api = new bet356()
+
+api.on().then((rest) => {
     console.log(rest)
 });
 
 ```
 
->- Caso tenha Duvidas, entre em contato: twitter @RattsVictor
+>- Caso tenha Duvidas, entre em contato: telegram @victorratts
 
